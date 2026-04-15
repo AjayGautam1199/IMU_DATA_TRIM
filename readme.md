@@ -1,0 +1,7 @@
+pip install -r requirements.txt
+
+source venv/bin/activate
+
+streamlit run app.py
+
+deactivate
